@@ -1,0 +1,25 @@
+# Core dependencies
+# No external dependencies required for basic functionality
+
+# Optional dependencies for enhanced features
+# Install with: pip install -r requirements.txt
+
+# For advanced bytecode manipulation (optional)
+# dis
+
+# For code analysis (optional)  
+# ast
+
+# For testing (development only)
+pytest>=6.0.0
+pytest-cov>=2.10.0
+
+# For performance profiling (development only)
+memory-profiler>=0.58.0
+
+# For configuration file support (optional)
+# pyyaml>=5.4.0
+
+# For web interface (future feature)
+# flask>=2.0.0
+# flask-cors>=3.0.0
